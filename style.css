@@ -1,0 +1,380 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, br,hr,blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {margin:0; padding:0; border:0; outline:0; font-size:100%; vertical-align:baseline; background:transparent; } 
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Raleway'), url(http://themes.googleusercontent.com/static/fonts/raleway/v7/IczWvq5y_Cwwv_rBjOtT0w.woff) format('woff');
+}
+.ist {
+  font-family: 'Raleway';
+  font-size:13px;
+}
+.uncategorized {
+  color:#7F1818;
+}
+a {
+  color:#fff;
+  text-decoration:none;
+}
+h3 {
+  font-weight:normal;
+}
+body {
+  font-family:'sempak';
+  font-size:12px;
+  color:#666;
+}
+.mmm a {
+  color:#3993C2;
+}
+@font-face {
+  font-family:'sempak';
+  font-weight:400;
+  src: local('sempak'), local('Strait-Regular'), url(s.woff) format('woff');
+}
+.rtrn {
+  padding:5px 0 0 0;
+}
+.rrtn, .gs {
+  font-size:11px;
+}
+.ll {
+  margin:0 auto;
+  width:960px;
+  height:70px;
+  font-size:36px;
+  font-weight:bold;
+  color:#fff;
+  padding:15px 0 0 0;
+  text-shadow:3px 1px 1px rgba(150, 150, 150, 0.68);
+}
+.ww {
+  width:980px;
+}
+.frx {
+  width:920px;
+  border:solid 1px #ececec;
+  background:#f1f1f1;
+  padding:10px;
+  height:220px;
+  line-height:1.4em;
+  font-size:12px;
+  margin:8px 0;
+}
+.frm {
+  width:920px;
+  border:solid 1px #ececec;
+  padding:5px;
+  height:180px;
+  line-height:1.4em;
+  font-size:12px;
+  margin:8px 0;
+}
+.ndt img {
+  float:left;
+  width:200px;
+  margin:0 10px 0 0;
+  padding:3px;
+}
+.ndt {
+  width:955px;
+  border:solid 1px #f1f1f1;
+  background:#FCFCFC;
+  padding:10px;
+  line-height:1.4em;
+  font-size:12px;
+  margin:8px 0;
+}
+.header {
+  background:#54A7D5;
+  height:70px;
+  margin:0;
+}
+.content {
+  width:962px;
+  overflow:hidden;
+  margin:0 auto;
+}
+.mm {
+  border:solid 1px #ececec;
+  border-radius:3px;
+  background:#fff;
+  width:920px;
+  padding:20px;
+}
+.mmm {
+  border:solid 1px #ececec;
+  border-radius:3px;
+  background:#fff;
+  width:920px;
+  padding:10px 20px;
+  margin:10px 0;
+}
+.fl, .wr, .post, .rtrn, .iff, .tl, .csv, .xx, .gs {
+  width:100%;
+}
+.content label, .content input, .fl, .wr, .r, .post, .ndt, .dtx, .dtx ul, .dtx ul li, .dtx ul li span, .dtxz, .dtxz ul, .dtxz ul li, .dtxz ul li span, .mm, .rtrn, .mmm, .iff, .tl, .csv, .key, .vol, .thb, .xx, .dt, .dt li, .gs, .frms, h3, .dx, .frt, .cpx, .cpx ul, .cpx ul li, .cpx span, .drx, .sttt, .ihj, .stx, .jdx, .stx span, .stx i, .ist {
+  float:left;
+}
+.thb {
+  width:160px;
+  padding:5px;
+  margin:0 10px 10px 0;
+}
+.key, .vol {
+  border-bottom:solid 1px #ececec;
+  padding:3px 0 5px 0;
+}
+.key {
+  width:700px;
+}
+.vol {
+  width:200px;
+}
+.dtx {
+  width:720px;
+  margin:0;
+}
+
+.dtxz {
+  width:980px;
+  margin:0 0 10px 0;
+  font-size:12px;
+  color:#666;
+}
+.dtx ul li {
+  width:720px;
+  padding:0 0 2px 0;
+  margin:0 0 2px 0;
+  border-bottom:dotted 1px #ececec;
+}
+.dtx ul li span {
+  width:90px;
+}
+.dtxz ul li span {
+  width:90px;
+}
+.dtx ul, .dtx ul li, .dtxz ul, .dtxz ul li, .dt, .dt li {
+  list-style:none;
+}
+.dtxz ul li {
+  width:979px;
+  padding:0 0 2px 0;
+  margin:0 0 2px 0;
+  border-bottom:dotted 1px #ececec;
+}
+.dtxz ul li span, .cpx span {
+  width:115px;
+}
+.wr {
+  padding:10px 0 0 0;
+}
+.fl {
+  margin:0 0 15px 0;
+}
+.mcv {
+  margin:0 0 10px 0;
+}
+.content label {
+  width:200px;
+  margin:8px 0 0 0;
+}
+.content input.st {
+  width:350px;
+  border-radius:3px;
+  padding:6px 10px;
+  border:solid 1px #ccc;
+  font-size:15px;
+}
+.content input.sb {
+  background:#57AAD6;
+  border:none;
+  padding:8px 30px 10px 30px;
+  color:#fff;
+  font-size:21px;
+  cursor:pointer;
+}
+.content p {
+  border-bottom:solid 1px #ececec;
+  padding:0 0 15px 0;
+  margin:0 0 20px 0;
+}
+h1 {
+  colors:#536370;
+  font-family:Raleway;
+  font-weight:normal;
+  font-size:24px;
+  margin:0 0 10px 0;
+}
+h3 {
+  colors:#536370;
+  font-family:Raleway;
+  font-weight:normal;
+  font-size:16px;
+  margin:0 0 10px 0;
+}
+h2 {
+  colors:#536370;
+  font-family:sempak;
+  font-weight:normal;
+  font-size:24px;
+  margin:0 0 5px 0;
+  border-bottom:dotted 1px #ececec;
+}
+.prep, h3 {
+  font-size:14px;
+}
+.vg, .header, h3, .ist {
+  float:left;
+  width:100%;
+}
+.kraken {
+  width:980px;
+  margin:0 auto;
+}
+.post {
+  margin:-20px 0 0 0;
+  background:#fff;
+  border-radius:3px;
+  padding:10px;
+  border:solid 1px #ececec;
+}
+.lgt {
+  float:right;
+  background:#4098C4;
+  color:#fff;
+  font-size:16px;
+  padding:10px 25px;
+  opacity:1;
+  transition:opacity 0.5s linear;
+}
+.lgt:hover {
+  background:#2785B5;
+  opacity:0.6;
+}
+.r {
+  width:200px;
+  margin:0 10px 10px 0;
+}
+.stg {
+  float:right;
+  background:#f3f3f3;
+  border:solid 1px #ececec;
+  font-size:13px;
+  margin:75px -140px 0 0;
+  color:#666;
+  font-weight:normal;
+  padding:2px 10px 3px 10px;
+  position:relative;
+  border-top-right-radius:3px;  
+}
+.iff {
+  margin:0 0 10px 0;
+}
+.g {
+  color:#4C8407;
+}
+.tl {
+  font-size:13px;
+  margin:10px 0;
+  font-weight:bold;
+}
+body {
+  background:url(http://foundation.zurb.com/assets/img/homepage/hero-image.svg) right 300px no-repeat;
+}
+.red {
+  color:#BF2020;
+}
+.green {
+  color:#5EB716; 
+}
+.xx {
+  margin:0 0 5px 0;
+}
+.dt {
+  width:900px;
+}
+.dt li {
+  margin:0 0 5px 0;
+}
+.dt li.aa {
+  width:150px;
+  background:url(img/li.png) 140px 4px no-repeat;
+}
+.dt li.bb {
+  width:750px;
+}
+.gs {
+  margin:0 0 2px 0;
+}
+.frms {
+  margin:0 0 10px 0;
+}
+.dfr {
+  margin:20px 0 0 0;
+}
+.dx, .frt {
+  margin:0 10px 10px 0;
+  border:solid 1px #ccc;
+  padding:2px;
+  width:160px;
+  height:90px;
+}
+.cpx {
+  width:980px;
+}
+.cpx ul {
+  width:750px;
+  list-style:none;
+}
+.cpx ul li {
+  width:750px;
+  padding:0 0 3px 0;
+  border-bottom:dotted 1px #ececec;
+  margin:0 0 5px 0;
+  list-style:none;
+}
+
+.drx {
+  overflow:scroll;
+  width:900px;
+  padding:10px;
+  height:100px;
+  line-height:1.4em;
+  font-size:12px;
+  margin:8px 0;
+  background:#efefef;
+  border-radius:3px;
+}
+
+.sttt {
+  margin:0 0 2px 0;
+  width:800px;
+}
+.sttt span {
+  background:url(img/li.png) 143px 5px no-repeat;
+  width:150px;
+}
+.ihj {
+  width:920px;
+}
+.ihj textarea {
+  width:920px;
+  height:400px;
+}
+.stx {
+  width:900px;
+  overflow:hidden;
+  border-bottom:dotted 1px #ececec;
+  padding:0 0 2px 0;
+  margin:0 0 3px 0;
+}
+.jdx {
+  width:120px;
+}
+.stx i {
+  font-style:normal;
+}
+.ist {
+  margin:0 0 20px 0;
+}
